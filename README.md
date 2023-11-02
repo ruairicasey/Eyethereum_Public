@@ -6,14 +6,16 @@ A video demonstration of Eyethereum is deployed on YouTube at: https://www.youtu
 
 After the project has been marked I will share the code on this public repository.
 
+Please feel free to read through my accompanying academic dissertation.
+
 ## Try Out The Token Checker!
 Follow these instructions if you wish to test out the token checker feature yourself:
 
-Copy this Ethereum token contract address: 0xa735a3af76cc30791c61c10d585833829d36cbe0
-Open Eyethereum and sign in using your preffered email address.
-Click on the Token Checker page.
-Paste the contract address into the text box, and click the 'Fetch Token Data' button.
-Wait for results to load.
+- Copy this Ethereum token contract address: 0xa735a3af76cc30791c61c10d585833829d36cbe0
+- Open Eyethereum and sign in using your preffered email address.
+- Click on the Token Checker page.
+- Paste the contract address into the text box, and click the 'Fetch Token Data' button.
+- Wait for results to load.
 
 If you wish to compare Eyethereum's results to leading competitors, copy and paste the same contract address into the following websites:
 
